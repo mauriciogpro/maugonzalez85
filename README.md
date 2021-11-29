@@ -16,6 +16,13 @@
 - 📄 Know about my experiences [https://github.com/maugonzalez85/p_web_cv](https://github.com/maugonzalez85/p_web_cv)
 
 - ⚡ Fun fact **i love sci fi tech movies**
+<h2 align="left">Quick note repositories:</h3>
+
+- C_ means course
+- O_ means old
+- P_ means project
+- E_ means exercises
+- my_ just some things to play-around
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
