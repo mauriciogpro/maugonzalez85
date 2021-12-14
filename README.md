@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mauricio Gonzalez</h1>
 <h3 align="center">I am an analyst and developer in training, mainly self-taught. Passionate about open source, linux, marketing, personal growth and technology.</h3>
 
-- 🔭 I’m currently working on a web page that allows me to show my projects [https://github.com/maugonzalez85/p_web_cv](https://github.com/maugonzalez85/p_web_cv)
+- 🔭 I’m currently working on a web page that allows me to show my projects [https://github.com/maugonzalez85/p_web_cv](https://github.com/mauriciogpro/p_web_cv)
 
 - 🌱 I am currently learning and improving my skills in **JS, C# and some of their frameworks**
 
 - 🤝 I’m looking to collaborate on in some open source project **.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/maugonzalez85/p_web_cv](https://github.com/maugonzalez85/p_web_cv)
+- 👨‍💻 All of my projects are available at [https://github.com/maugonzalez85/p_web_cv](https://github.com/mauriciogpro/p_web_cv)
 
-- 📝 I regularly write ideas and thoughts on twitter. No full blogger yet. [@Tuitdemauri](@Tuitdemauri)
+- 📝 I regularly write ideas and thoughts on twitter. No full blogger yet. [@mauriciog_pro](@mauriciog_pro)
 
 - 📫 How to reach me **maugonzalez85@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/maugonzalez85/p_web_cv](https://github.com/maugonzalez85/p_web_cv)
+- 📄 Know about my experiences [https://github.com/maugonzalez85/p_web_cv](https://github.com/mauriciogpro/p_web_cv)
 
 - ⚡ Fun fact **i love sci fi tech movies**
 <h2 align="left">Quick note repositories:</h3>
@@ -26,10 +26,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tuitdemauri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tuitdemauri" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maugonzalez85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maugonzalez85" height="30" width="40" /></a>
-<a href="https://fb.com/maugonzalez85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maugonzalez85" height="30" width="40" /></a>
-<a href="https://instagram.com/mau_gonzalez_85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mau_gonzalez_85" height="30" width="40" /></a>
+<a href="https://twitter.com/mauriciog_pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mauriciog_pro" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mauriciogpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauriciogpro" height="30" width="40" /></a>
+<a href="https://fb.com/mauriciogpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mauriciogpro" height="30" width="40" /></a>
+<a href="https://instagram.com/mauriciog_pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mauriciog_pro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
