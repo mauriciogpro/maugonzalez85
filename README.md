@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mauricio Gonzalez</h1>
 <h3 align="center">I am an analyst and developer in training, mainly self-taught. Passionate about open source, linux, marketing, personal growth and technology.</h3>
 
-- 🔭 I’m currently working on a web page that allows me to show my projects [https://github.com/maugonzalez85/p_web_cv](https://github.com/mauriciogpro/p_web_cv)
+- 🔭 I’m currently working on a web page that allows me to show my projects [https://github.com/mauriciogpro/p_web_cv](https://github.com/mauriciogpro/p_web_cv)
 
 - 🌱 I am currently learning and improving my skills in **JS, C# and some of their frameworks**
 
 - 🤝 I’m looking to collaborate on in some open source project **.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/maugonzalez85/p_web_cv](https://github.com/mauriciogpro/p_web_cv)
+- 👨‍💻 All of my projects are available at [https://github.com/mauriciogpro/p_web_cv](https://github.com/mauriciogpro/p_web_cv)
 
 - 📝 I regularly write ideas and thoughts on twitter. No full blogger yet. [@mauriciog_pro](@mauriciog_pro)
 
