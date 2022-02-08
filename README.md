@@ -19,7 +19,7 @@
 <h2 align="left">Quick note repositories:</h3>
 
 - C_ means course
-- O_ means old
+- Master_ means Master Project
 - P_ means project
 - E_ means exercises
 - my_ just some things to play-around
