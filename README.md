@@ -21,7 +21,6 @@
 - C_ means course
 - Master_ means Master Project
 - P_ means project
-- E_ means exercises
 - my_ just some things to play-around
 
 <h3 align="left">Skills:</h3>
