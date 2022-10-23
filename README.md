@@ -9,9 +9,9 @@
 
 - 👨‍💻 Some of my projects are available in these repo.
 
-- 📝 I’m trying to write ideas and thoughts on medium. No full blogger yet. 
+- 📝 I’m trying to write ideas and thoughts on https://mauriciogcode.hashnode.dev. No full blogger yet. 
 
-- 📫 How to reach me **maugonzalez85@gmail.com**
+- 📫 How to reach me **mauriciogcode@gmail.com**
 
 - 📄 Know about my experiences.
 
