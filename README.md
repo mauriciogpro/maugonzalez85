@@ -57,5 +57,8 @@ I love working as a team, I think communication is vital to achieve success in a
 <!--BLOG-ARTICLES_LIST:END--> 
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciogcode&layout=compact&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 <p>made with https://rahuldkjain.github.io/gh-profile-readme-generator/</p>
