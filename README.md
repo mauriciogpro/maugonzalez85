@@ -1,8 +1,13 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mauricio Gonzalez!
-
+### I'm Mauricio <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ---
-![Twitter Follow](https://img.shields.io/twitter/follow/mauriciogcode?label=Follow&style=social)
+
+:mailbox: Reach me out!
+
+[![Twitter Badge](https://img.shields.io/badge/-@mauriciogcode-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mauriciogcode)](https://twitter.com/mauriciogcode) 
+[![Linkedin Badge](https://img.shields.io/badge/-mauriciogcode-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imauriciogcode/) 
+[![Mail Badge](https://img.shields.io/badge/-@mauriciogcode-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/mauriciogcode) [![Mail Badge](https://img.shields.io/badge/-mauriciogcode-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mauriciogcode@gmail.com)
+
 
 
 My name is Mauricio and I am a productive .Net Developer with a solid foundation in web development.
@@ -25,12 +30,13 @@ My name is Mauricio and I am a productive .Net Developer with a solid foundation
 
 
 ---
-<h3 align="left">📲Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mauriciogcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mauriciogcode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mauriciogcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauriciogcode" height="30" width="40" /></a>
-<a href="https://mauriciogcode.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://mauriciogcode.hashnode.dev" height="30" width="40" /></a>
-</p>
+#### Top Technologies
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+[![C Sharp Badge](https://img.shields.io/badge/c%23-%964D92.svg?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=964D92)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 ---
 
