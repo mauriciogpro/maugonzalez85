@@ -44,4 +44,6 @@
 
 ![snake animation](https://github.com/mauriciogcode/Snake-in-Contribution-Grid/blob/output/github-contribution-grid-snake-dark.svg)
 
+![snake animation](https://github.com/mauriciogcode/Snake-in-Contribution-Grid/blob/output/github-contribution-grid-snake.svg)
+
 
