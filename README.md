@@ -42,6 +42,6 @@
 
 ###
 
-  ![Snake animation](https://github.com/mauriciogcode/mauriciogcode/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/mauriciogcode/mauriciogcode/blob/output/github-contribution-grid-snake2.svg)
 
 
