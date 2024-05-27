@@ -41,7 +41,7 @@
 
 
 ###
-![](https://raw.githubusercontent.com/mauriciogcode/YOUR-REPO-NAME/output/github-contribution-grid-snake.svg
+
 ![snake animation](https://github.com/mauriciogcode/Snake-in-Contribution-Grid/blob/output/github-contribution-grid-snake2.svg)
 
 
