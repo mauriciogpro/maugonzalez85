@@ -46,9 +46,6 @@
 </div>
 
 ###
-![snake gif](https://github.com/mauriciogcode/mauriciogcode/blob/output/github-contribution-grid-snake.gif)
-<img src="https://raw.githubusercontent.com/mauriciogcode/mauriciogcode/output/snake.svg" alt="Snake animation" />
-![Snake animation](substitute my username to yours in the link here)
 
   ![Snake animation](https://github.com/mauriciogcode/mauriciogcode/blob/output/github-contribution-grid-snake.svg)
 
