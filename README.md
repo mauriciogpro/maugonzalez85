@@ -2,14 +2,6 @@
 
 <h2 align="left">Hi 👋! My name is Mauricio and I'm a Developer from Argentina</h2>
 
-###
-
-<br clear="both">
-
-<img align="left" height="200" src="https://avatars.githubusercontent.com/u/58061730?s=400&u=9d1a62e844dc101e0b5b65840895ea6f51bb03df&v=4"  />
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/mauriciogcode0/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -57,18 +49,3 @@
 
 <img src="https://raw.githubusercontent.com/mauriciogcode/mauriciogcode/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=mauriciogcode" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/mauriciogcode">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mauriciogcode&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
